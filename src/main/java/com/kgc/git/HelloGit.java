@@ -16,10 +16,12 @@ package com.kgc.git;
 public class HelloGit {
  public static void main(String[] args) {
 	System.out.println("Hello Git!");
-	System.out.println("更新1");
-	System.out.println("创建分支");
-	System.out.println("主线添加");
-	System.out.println("创建分支干线");
+	System.out.println("鏇存柊1");
+	System.out.println("鍒涘缓鍒嗘敮");
+	System.out.println("涓荤嚎娣诲姞");
+	System.out.println("鍒涘缓鍒嗘敮骞茬嚎");
+	System.out.println("鍦ㄧ嚎娣诲姞");
+
 
 
 
